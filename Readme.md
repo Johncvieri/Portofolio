@@ -4,13 +4,13 @@ Website portfolio profesional untuk Jhon Kristian Vieri - Data Analyst & Develop
 
 ## 🚀 Cara Hosting
 
-### Opsi 1: GitHub Pages (Gratis)
+### Opsi 1: GitHub Pages
 1. Upload semua file ke repository GitHub
 2. Nama repository: `username.github.io`
 3. Aktifkan GitHub Pages di Settings → Pages
 4. Website akan live di: `https://username.github.io`
 
-### Opsi 2: Netlify (Paling Mudah)
+### Opsi 2: Netlify
 1. Drag folder ini ke https://app.netlify.com/drop
 2. Atau connect repository GitHub
 3. Deploy otomatis dalam 1 menit
